@@ -29,7 +29,7 @@
 		</div>
 	</div>
 	<div class="flex row2">
-		<div>Jaargang 43</div>
+		<div>Jaargang 42</div>
 		<div>Augustus 2021</div>
 	</div>
 </header>

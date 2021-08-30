@@ -1,14 +1,16 @@
 ---
-catagory: Redaksioneel
-title: Begin van ’n nuwe era
+catagory: Sosiaal
+title: redaksiebrief
 subtitle: ''
 author: Renke Lorio & Emma Olivier
 image_url: redaksiebrief
-image_credit: Arnold Hattingh
+image_credit: ''
+
 ---
+Die vraag is iets uniek aan die mensdom. Ons is die enigste spesie wat die vermoë het om in taal en gedagte die rede agter iets te bevraagteken. Ons is die enigste spesie wat kan vra: “Waarom?”
 
-Die laaste paar maande was rof, om die minste te sê. Ons is met verskeie uitdagings op menigte gebiede gekonfronteer. Nie net moes ons ’n vol akademiese kwartaal tydens ’n derde vlaag van die pandemie deurmaak nie, maar ons moes ook verskeie sosiale en maatskaplike probleme binne die skool konfronteer. Nou sit ons weer met die onsekerheid van wanneer ons sal kan terugkeer DF toe, met die infeksies wat styg en die heropening van skole wat al hoe verder weg blyk om te skuif.
+Die mens bevraagteken al duisende jare lank omtrent alles om ons. Die vraag, _waarom?_, is die hele beginsel waarop die wetenskap, filosofie en eksistensiële krisisse gegrond is. Die mens strewe al sy hele bestaan lank om te verstaan hoe die wêreld om ons werk en wat ons plek en doel in hierdie vreesaanjaende, asemrowende heelal is. Ons vra vrae wat onbeantwoordbaar is en strewe steeds om dit te beantwoord, want dit is wat mense doen. Ons vra vrae en ons soek antwoorde.
 
-Ten spyte van die onstuimigheid, onsekerheid en algehele chaos wat op die oomblik heers, glo ek tog dat daar ’n lig aan die einde van die tonnel is. DF beweeg stadig maar seker in ’n nuwe era in. ’n Era waarin ons mekaar regtig begin hoor en probeer verstaan. ’n Era van hoop.
+Op hoërskool het ons almal gereeld met vrae te doen. Tydens eksamens voel ons dikwels asof al wat mense doen, is ons vrae vra – sommige wat ons kan beantwoord en ander waarmee ons ’n bietjie meer mee sukkel...
 
-Hierdie is die tweede uitgawe in die tweede kwartaal van die tweede jaar van hierdie dekade (en die pandemie). Die tema vir hierdie uitgawe het ook iets met twee te doen. Kyk of jy dit kan raaksien.
+Geagte leser, ek dink die tema vir hierdie uitgawe is al redelik duidelik. As jy egter nog nie seker is nie, moet ek jou vra, wat dink jy is die tema?
