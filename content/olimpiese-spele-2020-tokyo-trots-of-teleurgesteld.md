@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: 'Olimpiese Spele, 2020, Tokyo: trots of teleurgesteld?'
 subtitle: ''
 author: Kyla van der Riel
-image_url: olimpies
-image_credit: ''
+image_url: sa-olimpies
+image_credit: 'Bianca Stander'
 
 ---
 

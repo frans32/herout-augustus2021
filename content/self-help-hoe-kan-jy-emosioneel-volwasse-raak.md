@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: 'Self-help: hoe kan jy emosioneel volwasse raak?'
 subtitle: ''
 author: Kaylin Grobler
-image_url: self-help
-image_credit: ''
+image_url: emosies
+image_credit: 'Shianne Brand'
 
 ---
 Emosies, gevoelens en gemoedstoestand is drie terme wat dikwels met mekaar verwar word. Hierdie konsepte val onder dieselfde kategorie, maar speel verskillende rolle in ’n mens se belewenis van gebeure.

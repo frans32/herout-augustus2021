@@ -4,7 +4,7 @@ title: Wat is die beste velsorgroetine vir ’n tiener?
 subtitle: ''
 author: Dehan Lotz
 image_url: velsorg
-image_credit: ''
+image_credit: 'Emma Snyman'
 
 ---
 Aknee annekseer die eens beeldskone vel. Adolessensie tree in en jou tienerjare word ’n ewige gekoes vir die onverwagte kamera.

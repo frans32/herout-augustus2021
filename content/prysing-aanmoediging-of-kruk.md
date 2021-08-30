@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: 'Prysing: aanmoediging of kruk?'
 subtitle: ''
 author: Juliette Behr
-image_url: prysing
-image_credit: ''
+image_url: olimpies
+image_credit: 'Bianca Stander'
 
 ---
 “Ek is so trots op jou!”

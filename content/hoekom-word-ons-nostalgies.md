@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: Hoekom word ons nostalgies?
 subtitle: ''
 author: Renke Lorio
-image_url: nostalgies
-image_credit: ''
+image_url: none
+image_credit: 'Bianca Stander'
 
 ---
 Die dag toe die graad agts van 2017, of liewer _grotters_, as nat agter die ore laerskoolkinders by DF aangekom het, het die matrieks verskriklik groot en volwasse gelyk. Dit was moeilik om toe te dink dat ons oor vier jaar in hulle skoene sou staan, op die drumpel van volwassenheid. Tog, hier sit ek nou, minder as twee maande voor mý uitstapdag, byna ’n volwassene en ’n trotse kenner van die skoollied (en ’n minder trotse kenner van die woorde van _Ek wens ek was cool soos Koos Kombuis_).

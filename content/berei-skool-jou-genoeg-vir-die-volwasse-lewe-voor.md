@@ -4,7 +4,7 @@ title: Berei skool jou genoeg vir die volwasse lewe voor?
 subtitle: ''
 author: Janike Smith
 image_url: skool
-image_credit: ''
+image_credit: 'Danielle de Villiers'
 
 ---
 Om skool toe te gaan, is ’n geleentheid om vir 12 jaar lank vaardighede aan te leer en kennis en ondervinding op te doen. Gestel jy het nie ’n keuse van verdere studie om in ’n spesifieke vakrigting te spesialiseer nie. Hoe toegerus is ’n 18-jarige skoolverlater regtig?

@@ -4,7 +4,7 @@ title: Hoekom het die mensdom 6500 tale ontwikkel?
 subtitle: ''
 author: Jana Burger
 image_url: tale
-image_credit: ''
+image_credit: 'Emma Snyman'
 
 ---
 As dit nie vir tale was nie, sou ons nie ons normale daaglikse interaksies met mekaar kon hê nie. Dié kombinasie van klanke, wat almal verskillende betekenisse het, het veroorsaak dat ons ander mense kan verstaan. Tale is die fondasie van alle kommunikasie en daar is tans meer as 6500 tale wat in verskeie dele van die wêreld gepraat word. Navorsing het bewys dat die gemiddelde mens egter slegs 1,5 tale kan praat.

@@ -4,7 +4,7 @@ title: Wat wil jy eendag word?
 subtitle: ''
 author: Leandri Odendal
 image_url: beroepe
-image_credit: ''
+image_credit: 'Aimee Hough'
 
 ---
 _Wat wil jy eendag word?_ Dit was die vraag en onderwerp van my eerste mondeling in Graad 1. Toe het ons dit maklik beantwoord: brandweerman, ballerina, prinses of ’n ruimtevaarder en vir ekstra punte het jou ma ’n kostuum oor jou kop getrek en het jy gewens jy kon regtig maan toe vlieg, want ’n leë visbak op jou kop is nie jou idee van ’n kreatiewe ruimtevaarderhelm nie.

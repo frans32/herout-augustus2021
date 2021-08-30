@@ -5,7 +5,7 @@ title: Is dit die moeite werd om dagboek te hou? My ervaring as eienaar van die 
 subtitle: ''
 author: Emma Olivier
 image_url: dagboek
-image_credit: ''
+image_credit: 'Emma Olivier'
 
 ---
 Ek het die oggend van 1 Januarie 2020 besluit om ’n dagboek te hou (regtig te _hou_, nie net elke kort-kort in te skryf nie, maar elke dag te _dokumenteer_ – soos in die flieks).

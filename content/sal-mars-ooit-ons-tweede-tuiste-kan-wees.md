@@ -4,7 +4,7 @@ title: Sal Mars ooit ons tweede tuiste kan wees?
 subtitle: ''
 author: Erica Chen
 image_url: mars
-image_credit: ''
+image_credit: 'Emma Snyman'
 
 ---
 Die rooi kolletjie in ons aandlug veroorsaak die afgelope ruk baie bespiegeling. Menigte mense, asook miljardêrs, soos Elon Musk, vra die volgende vraag: sal mense ooit Mars toe kan gaan of selfs dit ons tweede tuiste kan noem?

@@ -3,7 +3,7 @@ catagory: Sosiaal
 title: Watter invloed het die sosio-politiese klimaat op die kuns en teater?
 subtitle: ''
 author: Cara Reyneke
-image_url: politiese-klimaat
+image_url: none
 image_credit: ''
 
 ---

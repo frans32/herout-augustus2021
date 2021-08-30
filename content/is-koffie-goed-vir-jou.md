@@ -4,7 +4,7 @@ title: Is koffie goed vir jou?
 subtitle: ''
 author: Nienke de Vaal
 image_url: koffie
-image_credit: ''
+image_credit: 'Shianne Brand'
 
 ---
 Koffie is een van die gewildste drankies. Adolessente blyk die vinnig-groeiendste bevolkingsgroep van koffiedrinkers te wees. Is daardie koppie koffie in jou hand egter jou vriend of vyand?

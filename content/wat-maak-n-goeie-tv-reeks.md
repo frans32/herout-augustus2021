@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: Wat maak ’n goeie TV-reeks?
 subtitle: ''
 author: Mia Groenewald
-image_url: reekse
-image_credit: ''
+image_url: reeks
+image_credit: 'Shianne Brand'
 
 ---
 Kom ons wees gou eerlik – hoeveel episodes van _Grey’s Anatomy_ kan jy in een dag klaar kyk? Hoeveel aande het jy al gedeurnag omdat die eerste seisoen van ’n reeks weereens op ’n _cliffhanger_ eindig?

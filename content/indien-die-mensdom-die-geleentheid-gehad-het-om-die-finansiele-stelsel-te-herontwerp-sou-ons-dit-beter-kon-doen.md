@@ -4,8 +4,8 @@ title: Indien die mensdom die geleentheid gehad het om die finansiële stelsel t
   sou ons dit beter kon doen?
 subtitle: ''
 author: Danielle Swanepoel
-image_url: ekonomiese-stelsel
-image_credit: ''
+image_url: ekonomie
+image_credit: 'Aimee Hough'
 
 ---
 Waar begin ’n mens ’n stelsel wat deur antieke Grieke geskep is, hipoteties herontwerp?

@@ -4,7 +4,7 @@ title: Hoe begin jy skryf?
 subtitle: ''
 author: Leanri Pretorius
 image_url: skrywer
-image_credit: ''
+image_credit: 'Cara Louw'
 
 ---
 Is jy deel van die 81% van mense wat graag ’n boek wil skryf, maar net nog nooit tyd gehad het om dit te begin of klaar te maak nie? Hier volg ’n paar wenke om te begin.

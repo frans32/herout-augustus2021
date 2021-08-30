@@ -5,7 +5,7 @@ title: Reduce, Reuse, Recycle - Is dit regtig verbruikers se verantwoordelikheid
 subtitle: ''
 author: Emma Craucamp
 image_url: klimaat
-image_credit: ''
+image_credit: 'Cara Louw'
 
 ---
 Ons almal voel die groeiende druk van die wêreld wat om hulp skree.

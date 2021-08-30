@@ -4,7 +4,7 @@ title: Is ’n walvis ’n vis?
 subtitle: ''
 author: Hellmeth Weich
 image_url: visse
-image_credit: ''
+image_credit: 'Danielle de Villiers'
 
 ---
 Die antwoord op dié vraag hang af van wie jy vra. Indien die aangesprokene ’n totale onkundige op die gebied van biologie is, sal die persoon waarskynlik “ja” sê.

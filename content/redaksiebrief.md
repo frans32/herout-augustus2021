@@ -4,7 +4,7 @@ title: redaksiebrief
 subtitle: ''
 author: Renke Lorio & Emma Olivier
 image_url: redaksiebrief
-image_credit: ''
+image_credit: 'Arnold Hattingh'
 
 ---
 Die vraag is iets uniek aan die mensdom. Ons is die enigste spesie wat die vermoë het om in taal en gedagte die rede agter iets te bevraagteken. Ons is die enigste spesie wat kan vra: “Waarom?”

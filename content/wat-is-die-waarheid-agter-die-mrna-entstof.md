@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: Wat is die waarheid agter die mRNA-entstof?
 subtitle: ''
 author: Leah Coetzee
-image_url: entstof
-image_credit: ''
+image_url: none
+image_credit: 'Bianca Stander'
 
 ---
 Babas kry hulle heel eerste inenting op die ouderdom van twee maande. 

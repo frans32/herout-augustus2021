@@ -4,7 +4,7 @@ title: Hoekom het ons somer- en wintersporte?
 subtitle: ''
 author: Erica Chen
 image_url: sport
-image_credit: ''
+image_credit: 'Bianca Stander'
 
 ---
 Het jy al gewonder hoekom hokkie en rugby wintersporte is, terwyl tennis ’n somersport is? Hoekom word sporte ooit in somer- en wintersporte verdeel?

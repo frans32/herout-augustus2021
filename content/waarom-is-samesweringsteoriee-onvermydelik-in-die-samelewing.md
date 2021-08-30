@@ -3,8 +3,8 @@ catagory: Sosiaal
 title: Waarom is samesweringsteorieë onvermydelik in die samelewing?
 subtitle: ''
 author: Renska Krynauw
-image_url: sameswering
-image_credit: ''
+image_url: none
+image_credit: 'Emma Olivier'
 
 ---
 Inligting en kennis is ’n belangrike faktor in die ontwikkeling van die mensdom. Dit is grootliks hoekom ons bo die res van die diereryk uitgestyg het. Dit het ’n behoefte geword om inligting, bo en behalwe die inligting vir oorlewing, te bekom en dit te benut om ons lewens te vergemaklik en ook interessanter te maak.

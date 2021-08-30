@@ -4,7 +4,7 @@ title: Wie is sy?
 subtitle: ''
 author: Henry van der Merwe
 image_url: skaduwee
-image_credit: 'skaduwee'
+image_credit: 'Renke Lorio'
 
 ---
 _Henry van der Merwe (gr. 12) is die algehele wenner van die Bloemfonteinse opstelkompetisie. Sy opstel is gebaseer op die tema “vrou sonder skaduwee”._
