@@ -3,7 +3,7 @@ catagory: Sosiaal
 title: Hoe begin jy skryf?
 subtitle: ''
 author: Leanri Pretorius
-image_url: skrywer
+image_url: none
 image_credit: ''
 
 ---
