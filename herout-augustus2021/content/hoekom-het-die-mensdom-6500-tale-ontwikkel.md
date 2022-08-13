@@ -3,7 +3,7 @@ catagory: Sosiaal
 title: Hoekom het die mensdom 6500 tale ontwikkel?
 subtitle: ''
 author: Jana Burger
-image_url: skrywer
+image_url: none
 image_credit: ''
 
 ---
